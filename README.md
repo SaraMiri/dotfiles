@@ -24,7 +24,7 @@ Follow these steps
 
 ```sh
 ❯ cd ~/projects
-❯ git clone git@github.com:SaraMiri/calculator.git
+❯ git clone git@github.com:SaraMiri/dotfiles.git
 ❯ cd dotfiles/
 ❯cp ./gitconfig ~/.gitconfig
 ```
