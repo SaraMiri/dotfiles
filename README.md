@@ -26,5 +26,5 @@ Follow these steps
 ❯ cd ~/projects
 ❯ git clone git@github.com:SaraMiri/dotfiles.git
 ❯ cd dotfiles/
-❯cp ./gitconfig ~/.gitconfig
+❯ cp ./gitconfig ~/.gitconfig
 ```
