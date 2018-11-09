@@ -1,0 +1,16 @@
+[user]
+	name = Sara Miragaya Rico
+	email = saramiragaya@gmail.com
+[alias]
+	co = checkout
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
+	autocrlf = input
+	editor = code --new-window --wait
+[apply]
+	whitespace = nowarn
+[format]
+	pretty = %C(yellow)%h%Creset %s %C(red)(%an, %cr)%Creset
