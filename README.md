@@ -7,6 +7,7 @@ Check out [Generating a new SSH key and adding it to the ssh-agent](https://help
 ### Steps
 
 ```sh
+❯ mkdir ~/.ssh
 ❯ ssh-keygen -t rsa -b 4096 -C " saramiragaya@gmail.com"
 ❯ bash
 ❯ eval "$(ssh-agent -s)"
