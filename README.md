@@ -17,7 +17,7 @@ Check out [Generating a new SSH key and adding it to the ssh-agent](https://help
 ❯ xclip -sel clip < ~/.ssh/id_rsa.pub
 ```
 
-Finally, we need to perform the steps from step 2 👉 [Add the SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)
+
 
 ## How to install
 
@@ -29,3 +29,4 @@ Follow these steps
 ❯ cd dotfiles/
 ❯ cp ./gitconfig ~/.gitconfig
 ```
+Finally, we need to perform the steps from step 2 👉 [Add the SSH key to your GitHub account](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account)
